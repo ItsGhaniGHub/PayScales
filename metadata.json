@@ -1,0 +1,6 @@
+{
+  "name": "Pay Scale Calculator Pakistan",
+  "description": "Federal Government BPS Pay Scale Calculator based on the Civil Servants Pakistan Naeem Sahi Ready Reckoner 2023.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
